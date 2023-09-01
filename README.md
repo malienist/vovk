@@ -18,6 +18,7 @@ Two cohorts are now active. Fork, pull, contribute to get involved.
 
 1. Blackhat 2023 Cohort
 2. Defcon 2023 Cohort
-3. 
+3. General
+   
 Contributors get credit, merch and opportunities to present there research 
 at conferences as part of Team Malienist. 
