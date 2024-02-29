@@ -1,3 +1,6 @@
+### Work on Vovk 2.0 is in full swing. New version to be released in 2024 LV Conf Season. Stay tuned. 
+### Teaser: ELF files welcome, disassembly supported :) 
+
 # Vovk - Yara rule generator
 Debugging module for generating in-depth YARA rules for malware. 
 Full post on Medium: https://malienist.medium.com/vovk-advanced-yara-rule-generator-3dff64e31fbb
