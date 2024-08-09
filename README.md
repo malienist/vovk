@@ -1,5 +1,10 @@
+### Vovk 2.0 - DEFCON 32 (2024) release is now ready. 
+
+
 ### Work on Vovk 2.0 is in full swing. New version to be released in 2024 LV Conf Season. Stay tuned. 
 ### Teaser: ELF files welcome, disassembly supported :) 
+
+![GitHub Logo](/images/defcon32.png)
 
 # Vovk - Yara rule generator
 Debugging module for generating in-depth YARA rules for malware. 
