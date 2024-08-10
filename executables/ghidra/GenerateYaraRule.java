@@ -13,7 +13,7 @@ public class GenerateYaraRule extends GhidraScript {
     protected void run() throws Exception {
         FileWriter fileWriter = null;
         try {
-            String filePath = "C:\\Users\\malie\\Documents\\ghidra_generated_rule.yar";
+            String filePath = "C:\\your\\path\\to\\ghidra_generated_rule.yar";
             fileWriter = new FileWriter(filePath);
 
             // Extract strings from raw memory
