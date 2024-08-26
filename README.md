@@ -1,8 +1,8 @@
-### Vovk 2.0 - DEFCON 32 (2024) release is now ready. 
+### Vovk 2.0 - DEFCON 32 (2024) release available now. 
 
 
-### Work on Vovk 2.0 is in full swing. New version to be released in 2024 LV Conf Season. Stay tuned. 
-### Teaser: ELF files welcome, disassembly supported :) 
+### Vovk 2.0 was released at DEFCON 32 in 2024 LV Conf Season.
+### New: ELF files welcome, disassembly supported, Ghidra Plugin available. 
 
 ![GitHub Logo](/images/defcon32.png)
 
